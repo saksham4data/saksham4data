@@ -33,7 +33,7 @@
 
 <h3 align="left">Popular Repositories:</h3>
 
-- 🔥 [File_Organizer](https://github.com/Sakshamnagar-7227/File_Organizer)
-- 📁 [Tic-Tac-Toe](https://github.com/Sakshamnagar-7227/Tic-Tac-Toe)
+- 🔥 [File_Organizer](https://github.com/Sakshamnagar-7227/Road_Severity_Prediction_Model)
+- 📁 [Tic-Tac-Toe](https://github.com/Sakshamnagar-7227/Movie_Recommendor)
 
 ---

@@ -33,7 +33,7 @@
 
 <h3 align="left">Popular Repositories:</h3>
 
-- 🔥 [Road_Severity_Predictor](https://github.com/Sakshamnagar-7227/Road_Accident_Severity_Prediction_Model)
-- 📁 [Fake_Job_Predictor](https://github.com/Sakshamnagar-7227/Fake_Job_Predictor)
+- 🔥 [Road_Severity_Predictor](https://github.com/saksham4data/Road_Accident_Severity_Prediction_Model)
+- 📁 [Fake_Job_Predictor](https://github.com/saksham4data/Fake_Job_Predictor)
 
 ---
